@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605804067113",
+    "project_id": "somafern",
+    "storage_bucket": "somafern.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605804067113:android:f4ccd00d7d005564c9df38",
+        "android_client_info": {
+          "package_name": "com.example.somafern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmwJm2LUmzQYBqvvZ7MFJyKXLfuP0_eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
